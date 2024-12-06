@@ -1,0 +1,130 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Test results
+[TestResults]/
+
+# Logs
+*.log
+logs/
+
+# Visual Studio cache files
+*.cache
+*.bak
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+*.iml
+
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# Npm
+node_modules/
+
+# Dotnet tools
+/.dotnet/
+
+# Other tools and configurations
+.vs/
+.vscode/
+
+# Publish
+publish/
+
+# Rider project files
+*.csproj.DotSettings
+
+# Entity Framework Migrations
+Migrations/
+
+# Configuration files
+appsettings.*.json
+
+# Generated files
+*.DS_Store
+
+# Strong name keys
+*.snk
+
+# Core dumps
+core.*
+
+# NuGet packages restore
+project.lock.json
+
+# ASP.NET Core
+artifacts/
+
+# Azure Functions
+.azurefunctions/
+
+# Azure WebJobs
+*.webjob
+
+# Docker
+**/docker-compose*.yml
+.Docker/
+
+# Dotnet tools
+/.config/dotnet/
+
+# JetBrains Rider
+*.rdproj
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+
+# Dump files
+*.dmp
+
+# Secret Manager
+secrets/
+
+# Resharper
+_ReSharper.*
+
+# Local settings
+local.settings.json
+
+# Azure Functions
+host.json
+
+# Files with secrets
+*.key
+
+# Swagger
+swagger/
+
+# Webpack
+*.hot-update.js
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Environment variables
+.env
+
+# Package restore
+packages/
