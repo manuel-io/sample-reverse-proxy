@@ -25,7 +25,7 @@ For a detailed walkthrough on how to build this reverse proxy, read the [Medium 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/sample-reverse-proxy.git
+   git clone git@github.com:manuel-io/sample-reverse-proxy.git
    cd sample-reverse-proxy
    ```
 
